@@ -1,0 +1,17 @@
+.gif-list {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+.gif-item {
+    list-style: none;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.gif {
+    width: 100%;
+    height: 100%;
+}
