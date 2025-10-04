@@ -15,3 +15,29 @@
     width: 100%;
     height: 100%;
 }
+
+.load-more-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #6a00cc, #a100ff);
+  color: white;
+  font-size: 16px;
+  font-family: inherit;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-left: 10px;
+  margin-top: 3px;
+  box-shadow: 0 0 10px rgba(161, 0, 255, 0.6);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 15px rgba(161, 0, 255, 0.8);
+  }
+
+  &:active {
+    transform: translateY(1px);
+    box-shadow: 0 0 8px rgba(161, 0, 255, 0.5);
+  }
+}
