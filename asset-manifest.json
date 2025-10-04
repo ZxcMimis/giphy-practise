@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/giphy-practise/static/css/main.8dd8fd8b.css",
-    "main.js": "/giphy-practise/static/js/main.8aed5e4e.js",
+    "main.css": "/giphy-practise/static/css/main.ddba4d3a.css",
+    "main.js": "/giphy-practise/static/js/main.0b7e0506.js",
     "index.html": "/giphy-practise/index.html",
-    "main.8dd8fd8b.css.map": "/giphy-practise/static/css/main.8dd8fd8b.css.map",
-    "main.8aed5e4e.js.map": "/giphy-practise/static/js/main.8aed5e4e.js.map"
+    "main.ddba4d3a.css.map": "/giphy-practise/static/css/main.ddba4d3a.css.map",
+    "main.0b7e0506.js.map": "/giphy-practise/static/js/main.0b7e0506.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd8fd8b.css",
-    "static/js/main.8aed5e4e.js"
+    "static/css/main.ddba4d3a.css",
+    "static/js/main.0b7e0506.js"
   ]
 }
